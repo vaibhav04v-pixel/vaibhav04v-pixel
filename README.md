@@ -1,55 +1,161 @@
-# 👋 Hello! I'm Vaibhav
+<div align="center">
 
-**Full Stack Developer | Cloud & DevOps Enthusiast | Open to Opportunities**
+# 💫 Hi there, I'm Vaibhav! 
+### Full Stack Developer | Cloud Architect | DevOps Engineer
 
-I'm actively seeking opportunities where I can contribute to building scalable, modern applications. With a strong foundation in full stack development and expertise in cloud infrastructure and DevOps practices, I'm ready to bring value to your team.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav04v)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav04v-pixel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/vaibhav04v-pixel/personal_protfolio)
 
----
-
-## 📖 About
-
-I'm a passionate developer who enjoys creating efficient and user-friendly solutions. Currently focused on building my expertise in modern development practices and cloud technologies. I believe in writing clean, maintainable code and continuously learning new technologies to stay ahead in the fast-evolving tech landscape.
-
----
-
-## 🌱 Growth Journey
-
-I'm continuously expanding my skills and working on projects that challenge me to grow as a developer. My focus areas include full stack web development, cloud architecture, DevOps automation, and database management systems.
+</div>
 
 ---
 
-## 💼 Skills
+## 🚀 About Me
 
-| **Category** | **Technologies** |
-|--------------|------------------|
-| **Full Stack Development** | HTML, CSS, JavaScript, React, Node.js, Express |
-| **Cloud Platforms** | AWS, Azure, Google Cloud Platform |
-| **DevOps & Tools** | Docker, Kubernetes, CI/CD, Git, Jenkins |
-| **Databases** | MongoDB, SQL, PostgreSQL, MySQL |
-| **Other Skills** | RESTful APIs, Microservices, Infrastructure as Code |
+> 🎯 **Passionate Developer** building scalable, cloud-native applications | **Open to exciting opportunities**
 
----
+I'm a results-driven software engineer who thrives on transforming ideas into robust, production-ready solutions. With expertise spanning the **entire stack** — from crafting intuitive frontends to architecting resilient cloud infrastructure — I bring a holistic approach to modern software development. Currently seeking opportunities where innovation meets impact.
 
-## 🚀 Featured Projects
-
-### [Student Record System](https://github.com/vaibhav04v-pixel/student_record_system)
-- Developed a comprehensive student management system
-- Implemented CRUD operations with database integration
-- Built with modern web technologies for optimal performance
-
-### [Personal Portfolio](https://github.com/vaibhav04v-pixel/personal_protfolio)
-- Created a responsive portfolio website
-- Showcases projects and technical skills
-- Designed with clean UI/UX principles
+```javascript
+const vaibhav = {
+  location: "India",
+  current_focus: ["Cloud Architecture", "Full Stack Development", "DevOps Automation"],
+  always_learning: true,
+  open_to: ["Full-time Opportunities", "Exciting Projects", "Tech Collaborations"]
+};
+```
 
 ---
 
-## 💬 Let's Connect
+## 🛠️ Tech Arsenal
 
-**I'm actively looking for full-time opportunities!** If you're hiring or know of any openings for full stack, cloud, or DevOps roles, I'd love to hear from you.
+### 💻 **Full Stack Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-📧 Feel free to reach out to discuss how I can contribute to your team.
+### ☁️ **Cloud Platforms**
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🔧 **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🗄️ **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-*Thank you for visiting my profile! Feel free to explore my repositories and projects.*
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 **Student Record System**
+#### [View Repository →](https://github.com/vaibhav04v-pixel/student_record_system)
+
+🔹 Comprehensive student management platform  
+🔹 Full CRUD operations with secure database integration  
+🔹 RESTful API architecture  
+🔹 Responsive and intuitive user interface  
+🔹 Built with modern web technologies  
+
+**Tech Stack:** Node.js, Express, MongoDB, React
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 **Personal Portfolio**
+#### [View Repository →](https://github.com/vaibhav04v-pixel/personal_protfolio)
+
+🔹 Fully responsive portfolio website  
+🔹 Showcases technical expertise and projects  
+🔹 Clean, modern UI/UX design  
+🔹 Optimized performance and SEO  
+🔹 Mobile-first approach  
+
+**Tech Stack:** HTML5, CSS3, JavaScript, React
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav04v-pixel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav04v-pixel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav04v-pixel&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
+
+</div>
+
+---
+
+## 💡 What I Bring to the Table
+
+```diff
++ 🎯 End-to-end development expertise from concept to deployment
++ ☁️ Cloud-native architecture design and implementation
++ 🔄 CI/CD pipeline automation and DevOps best practices
++ 📊 Database design, optimization, and management (SQL & NoSQL)
++ 🤝 Strong collaboration and problem-solving abilities
++ 🚀 Passion for clean code, scalability, and performance optimization
+```
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+### 💬 I'm always open to discussing:
+✨ **New opportunities** | 🚀 **Innovative projects** | 💼 **Tech collaborations** | 🎓 **Knowledge sharing**
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav04v)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vaibhav04v)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/vaibhav04v-pixel/personal_protfolio)
+
+<br>
+
+### 📧 **Reach out:** `your.email@example.com`
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=vaibhav04v-pixel&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+**⭐ If you like my work, consider giving a star to my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+**✨ Let's build something amazing together! ✨**
+
+</div>
