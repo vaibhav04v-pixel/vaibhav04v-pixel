@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Vaibhav | Full Stack Developer
+# 👋 Hi, I'm Vaibhav | Passionate Learner | Cloud & DevOps Enthusiast
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Database+Expert;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Passionate+Learner;Cloud+%26+DevOps+Enthusiast;Database+Enthusiast;Building+Knowledge+%26+Skills" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-Passionate Full Stack Developer with expertise in building robust, scalable applications and cloud infrastructure. Currently seeking opportunities to contribute to innovative projects and drive technical excellence in a forward-thinking organization.
+Enthusiastic technology learner with a strong foundation in modern web development, cloud infrastructure, and DevOps practices. Passionate about acquiring new skills and staying current with emerging technologies. Currently seeking opportunities to apply my knowledge and grow professionally in a collaborative environment.
 
-💼 **Open to Full-Time Opportunities** | 🌟 Building impactful solutions | 🎯 Focused on clean code & best practices
+💼 **Open to Full-Time Opportunities** | 🌟 Eager to learn and contribute | 🎯 Focused on clean code & best practices
 
 ---
 
@@ -35,110 +35,34 @@ Passionate Full Stack Developer with expertise in building robust, scalable appl
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🛠️ Tools & Technologies
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🎯 Core Competencies
+## 📚 Currently Learning
 
-```yaml
-Full Stack Development:
-  - RESTful API Design & Development
-  - Microservices Architecture
-  - Responsive Web Design
-  - Single Page Applications (SPA)
-
-Cloud & DevOps:
-  - CI/CD Pipeline Implementation
-  - Infrastructure as Code (IaC)
-  - Container Orchestration
-  - Cloud Architecture & Deployment
-
-Database Management:
-  - NoSQL & SQL Database Design
-  - Query Optimization
-  - Data Modeling
-  - Database Administration
-
-Soft Skills:
-  - Problem Solving & Analytical Thinking
-  - Team Collaboration
-  - Agile/Scrum Methodologies
-  - Technical Documentation
-```
+- Advanced Cloud Architecture
+- Container Orchestration
+- CI/CD Pipeline Design
+- Microservices Architecture
+- System Design & Scalability
 
 ---
 
-## 🌟 Featured Projects
+## 🎯 Goals
 
-### 📚 Student Record System
-> A comprehensive management system for educational institutions
-- Built with JavaScript and modern web technologies
-- Features CRUD operations and data management
-- Implements secure user authentication
-- [View Repository →](https://github.com/vaibhav04v-pixel/student_record_system)
-
-### 💼 Personal Portfolio
-> Professional portfolio website showcasing my work and skills
-- Responsive design with modern UI/UX
-- Interactive elements and smooth animations
-- Optimized performance and SEO
-- [View Repository →](https://github.com/vaibhav04v-pixel/personal_protfolio)
+- 🌱 Continuously expanding my technical knowledge
+- 💡 Contributing to open-source projects
+- 🤝 Collaborating with developers and learning from the community
+- 📖 Staying updated with the latest technology trends
 
 ---
 
-## 📊 GitHub Statistics
+## 📫 Let's Connect!
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhav04v-pixel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav04v-pixel&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav04v-pixel&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav04v)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav04v-pixel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
-
-</div>
-
----
-
-## 💡 What I'm Currently Doing
-
-- 🔍 **Actively seeking Full Stack Developer opportunities**
-- 🚀 Building scalable applications with modern tech stack
-- 📚 Deepening expertise in Cloud Architecture and DevOps practices
-- 🌱 Contributing to open-source projects
-- 💬 Open to collaborations on innovative projects
-
----
-
-## 📈 Career Objectives
-
-> "Driven to leverage my full stack development expertise and cloud/DevOps skills to build innovative solutions that drive business growth. Seeking a challenging role where I can contribute to cutting-edge projects while continuously learning and growing as a professional."
+I'm always excited to connect with fellow tech enthusiasts and explore new opportunities!
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhav04v-pixel&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/vaibhav04v-pixel">vaibhav04v-pixel</a> | Let's build something amazing together!</sub>
+  <i>"Learning never exhausts the mind." - Leonardo da Vinci</i>
 </div>
