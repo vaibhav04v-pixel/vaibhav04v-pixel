@@ -4,9 +4,9 @@
 
 ### 🎓 Computer Science Student | 💼 Actively Seeking Internship Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav04v)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-v-3749b9289/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav04v-pixel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/vaibhav04v-pixel/personal_protfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vaibhav04v-pixel.github.io/personal_protfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhav04v-pixel&label=Profile%20Views&color=0e75b6&style=flat)
@@ -41,22 +41,26 @@ const vaibhav = {
 <div align="center">
 
 ### 🎨 Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -71,14 +75,10 @@ const vaibhav = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎓 **[Student Record System](https://github.com/vaibhav04v-pixel/student_record_system)** | Full-featured student management system with CRUD operations | JavaScript, Node.js, MongoDB |
-| 💼 **[Personal Portfolio](https://github.com/vaibhav04v-pixel/personal_protfolio)** | Professional portfolio website showcasing my projects and skills | HTML, CSS, JavaScript |
-
-</div>
+| 💼 **[Personal Portfolio](https://vaibhav04v-pixel.github.io/personal_protfolio/)** | Professional portfolio website showcasing my projects and skills | HTML, CSS, JavaScript |
 
 ---
 
@@ -86,19 +86,18 @@ const vaibhav = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhav04v-pixel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav04v-pixel&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" width="49%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav04v-pixel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav04v-pixel&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav04v-pixel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav04v-pixel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" width="49%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav04v-pixel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhav04v-pixel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)
 
 </div>
 
 ---
 
 ## 🎯 Why Hire Me as an Intern?
-
-<div align="center">
 
 | 🔥 Strength | 📝 Description |
 |-------------|----------------|
@@ -109,13 +108,9 @@ const vaibhav = {
 | **📚 Continuous Growth** | Always learning and staying updated with latest tech trends |
 | **💡 Problem Solver** | Analytical mindset with a passion for solving complex challenges |
 
-</div>
-
 ---
 
 ## 🎓 What I'm Looking For
-
-<div align="center">
 
 ```yaml
 Internship_Preferences:
@@ -131,8 +126,6 @@ Internship_Preferences:
     - Learn industry best practices
 ```
 
-</div>
-
 ---
 
 ## 🌟 Core Competencies
@@ -140,18 +133,21 @@ Internship_Preferences:
 <div align="center">
 
 ### 💼 MERN Stack Development
+
 ✅ Building responsive web applications  
 ✅ RESTful API design and implementation  
 ✅ State management with React  
 ✅ Server-side development with Node.js & Express  
 
 ### 🗄️ Database Management
+
 ✅ SQL query optimization  
 ✅ Database schema design  
 ✅ MongoDB aggregation pipelines  
 ✅ Data modeling and normalization  
 
 ### ☁️ Cloud & DevOps
+
 ✅ Cloud infrastructure basics (AWS, Azure, GCP)  
 ✅ Containerization with Docker  
 ✅ Version control with Git  
@@ -170,13 +166,14 @@ Internship_Preferences:
 
 **If you're looking for a motivated, skilled, and enthusiastic intern, let's talk!**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav04v)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-v-3749b9289/)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/vaibhav04v-pixel/personal_protfolio)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vaibhav04v-pixel.github.io/personal_protfolio/)
 
 ---
 
 ### 📬 Open to:
+
 ✨ Internship Opportunities | 🤝 Collaboration | 💡 Learning & Growth | 🚀 Exciting Projects
 
 ---
