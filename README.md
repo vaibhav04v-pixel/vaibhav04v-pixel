@@ -1,106 +1,189 @@
 <div align="center">
 
-# 💫 Hi there, I'm Vaibhav! 
+# 👋 Hi, I'm Vaibhav!
 
-### Full Stack Developer | Cloud Architect | DevOps Engineer
+### 🎓 Computer Science Student | 💼 Actively Seeking Internship Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav04v)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav04v-pixel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/vaibhav04v-pixel/personal_protfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vaibhav04v-pixel&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-> 🎯 **Passionate Developer** building scalable, cloud-native applications | **Open to exciting opportunities**
+> 🌟 **Passionate CS Student** | **Eager Learner** | **Ready to Contribute & Grow**
 
-I'm a results-driven software engineer who thrives on transforming ideas into robust, production-ready solutions. With expertise spanning the **entire stack** — from crafting intuitive frontends to architecting resilient cloud infrastructure — I bring a holistic approach to modern software development. Currently seeking opportunities where innovation meets impact.
+I'm a dedicated computer science student with a strong foundation in **full-stack development** and a growing expertise in **cloud technologies** and **DevOps practices**. I'm actively seeking internship opportunities where I can apply my technical skills, learn from experienced professionals, and contribute to real-world projects.
 
 ```javascript
 const vaibhav = {
-  location: "India",
-  current_focus: ["Cloud Architecture", "Full Stack Development", "DevOps Automation"],
-  always_learning: true,
-  open_to: ["Full-time Opportunities", "Exciting Projects", "Tech Collaborations"]
+  status: "🎓 Student",
+  lookingFor: "💼 Internship Opportunities",
+  location: "📍 India",
+  techStack: ["MERN", "SQL", "MySQL", "MongoDB", "Cloud", "DevOps"],
+  currentlyLearning: ["Advanced Cloud Architecture", "CI/CD Pipelines", "Microservices"],
+  readyToStart: true,
+  availableFor: ["Summer Internships", "Part-time Roles", "Full-time Internships"],
+  qualities: ["Quick Learner", "Team Player", "Problem Solver"]
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💻 Technical Skills
 
-### 💻 **Full Stack Development**
+<div align="center">
 
+### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ☁️ **Cloud Platforms**
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🗄️ **Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛠️ **DevOps & Tools**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav04v-pixel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav04v-pixel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav04v-pixel&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
 
 </div>
 
 ---
 
-## 💡 What I Bring to the Table
+## 🚀 Featured Projects
 
-```diff
-+ 🎯 End-to-end development expertise from concept to deployment
-+ ☁️ Cloud-native architecture design and implementation
-+ 🔄 CI/CD pipeline automation and DevOps best practices
-+ 📊 Database design, optimization, and management (SQL & NoSQL)
-+ 🤝 Strong collaboration and problem-solving abilities
-+ 🚀 Passion for clean code, scalability, and performance optimization
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎓 **[Student Record System](https://github.com/vaibhav04v-pixel/student_record_system)** | Full-featured student management system with CRUD operations | JavaScript, Node.js, MongoDB |
+| 💼 **[Personal Portfolio](https://github.com/vaibhav04v-pixel/personal_protfolio)** | Professional portfolio website showcasing my projects and skills | HTML, CSS, JavaScript |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhav04v-pixel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav04v-pixel&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav04v-pixel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav04v-pixel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" width="49%" />
+
+</div>
+
+---
+
+## 🎯 Why Hire Me as an Intern?
+
+<div align="center">
+
+| 🔥 Strength | 📝 Description |
+|-------------|----------------|
+| **🚀 Quick Learner** | Rapidly adapt to new technologies and frameworks |
+| **💪 Strong Foundation** | Solid understanding of MERN stack, databases, and cloud |
+| **🎯 Goal-Oriented** | Focused on delivering results and meeting deadlines |
+| **🤝 Team Player** | Excellent collaboration and communication skills |
+| **📚 Continuous Growth** | Always learning and staying updated with latest tech trends |
+| **💡 Problem Solver** | Analytical mindset with a passion for solving complex challenges |
+
+</div>
+
+---
+
+## 🎓 What I'm Looking For
+
+<div align="center">
+
+```yaml
+Internship_Preferences:
+  Role: ["Full Stack Developer", "Backend Developer", "Cloud Engineer", "DevOps Intern"]
+  Duration: ["Summer Internship", "3-6 months", "Long-term"]
+  Type: ["Remote", "Hybrid", "On-site"]
+  Industries: ["Tech Startups", "Product Companies", "Cloud Services", "FinTech"]
+  Learning_Goals:
+    - Work on production-grade applications
+    - Collaborate with experienced developers
+    - Gain hands-on experience with cloud infrastructure
+    - Contribute to meaningful projects
+    - Learn industry best practices
 ```
 
+</div>
+
 ---
 
-## 🤝 Let's Connect
+## 🌟 Core Competencies
 
 <div align="center">
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav04v)
-- 📧 [Email: your.email@example.com](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://github.com/vaibhav04v-pixel/personal_protfolio)
+### 💼 MERN Stack Development
+✅ Building responsive web applications  
+✅ RESTful API design and implementation  
+✅ State management with React  
+✅ Server-side development with Node.js & Express  
 
-**Let's collaborate and build something great! Recruiters & developers always welcome to reach out.** 🚀
+### 🗄️ Database Management
+✅ SQL query optimization  
+✅ Database schema design  
+✅ MongoDB aggregation pipelines  
+✅ Data modeling and normalization  
+
+### ☁️ Cloud & DevOps
+✅ Cloud infrastructure basics (AWS, Azure, GCP)  
+✅ Containerization with Docker  
+✅ Version control with Git  
+✅ Basic CI/CD understanding  
+✅ Linux command line proficiency  
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+### 💼 I'm actively seeking internship opportunities!
+
+**If you're looking for a motivated, skilled, and enthusiastic intern, let's talk!**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav04v)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/vaibhav04v-pixel/personal_protfolio)
+
+---
+
+### 📬 Open to:
+✨ Internship Opportunities | 🤝 Collaboration | 💡 Learning & Growth | 🚀 Exciting Projects
+
+---
+
+*"The best way to predict the future is to create it."* – Peter Drucker
+
+### ⭐ Available for Immediate Start | Ready to Learn & Contribute!
 
 </div>
 
@@ -108,18 +191,8 @@ const vaibhav = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=vaibhav04v-pixel&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+**Thank you for visiting my profile! Feel free to explore my repositories and reach out for internship opportunities.**
 
-**⭐ If you like my work, consider giving a star to my repositories!**
-
-</div>
-
----
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-**✨ Let's build something amazing together! ✨**
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
