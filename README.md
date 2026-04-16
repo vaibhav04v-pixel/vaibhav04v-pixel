@@ -4,10 +4,10 @@
 
 ### 🎓 Computer Science Student | 💼 Actively Seeking Internship Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-v-3749b9289/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/velumuri-vaibhav/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav04v-pixel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vaibhav04v-pixel.github.io/personal_protfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav04v@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhav04v-pixel&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -77,7 +77,10 @@ const vaibhav = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎓 **[Student Record System](https://github.com/vaibhav04v-pixel/student_record_system)** | Full-featured student management system with CRUD operations | JavaScript, Node.js, MongoDB |
+| 🏦 **[Banking Management System](https://github.com/vaibhav04v-pixel/banking-management_system.git)** | Desktop-based application to manage customer accounts, transactions, deposits, and withdrawals efficiently | C++, Qt6, File Handling |
+| 🚨 **[Log Monitoring & Alerting System](https://github.com/vaibhav04v-pixel/Log-monitoring-Alerting-System.git)** | Real-time system to monitor logs and trigger alerts for error patterns with high reliability | AWS CloudWatch, Lambda, SNS |
+  ☁️ **[Cloud Care Connect](https://github.com/vaibhav04v-pixel/cloud-care-connect.git)** | Cloud-based healthcare management system for storing patient data, appointments, and reports securely | AWS (EC2, S3, RDS, IAM), Node.js |
+| 🎓 **[Student Record System](https://github.com/vaibhav04v-pixel/student_record_system.git)** | Full-featured student management system with CRUD operations | JavaScript, Node.js, MongoDB |
 | 💼 **[Personal Portfolio](https://vaibhav04v-pixel.github.io/personal_protfolio/)** | Professional portfolio website showcasing my projects and skills | HTML, CSS, JavaScript |
 
 ---
